@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MusicApp</string>
+    <string name="art">Art</string>
+
+    <string name="classic">art music produced or rooted in the traditions of Western culture</string>
+    <string name="country">a genre of popular music that originated in the southern United States</string>
+    <string name="electronic">music that employs electronic musical and digital instruments</string>
+    <string name="folk">includes traditional folk music and the genre that evolved from it</string>
+    <string name="french">the music of France reflects a diverse array of styles</string>
+    <string name="hip_hop">a genre developed in the US by inner-city African Americans</string>
+    <string name="playing_now_art">Playing Now Art</string>
+    <string name="skip_to_prev">skip to prev</string>
+    <string name="play_and_pause">play and pause</string>
+    <string name="skip_to_next">skip to next</string>
+</resources>
